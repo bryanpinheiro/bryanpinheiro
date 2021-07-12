@@ -15,7 +15,7 @@ I'm currently focusing on getting a high score on the SAT. Besides, I'm a junior
   <a href="https://github.com/BryanSouza?tab=repositories">
     <img src="https://badges.pufler.dev/repos/BryanSouza?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/BryanSouza">
+  <a href="https://github.com/BryanSouza?tab=followers">
     <img src="https://img.shields.io/github/followers/BryanSouza?style=social">
   </a>
 </p>
