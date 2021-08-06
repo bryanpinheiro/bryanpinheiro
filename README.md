@@ -1,6 +1,6 @@
 <h2 align="center">Hey 👋😁, welcome to my profile!</h2>
 
-<p align="center"> My Website: <a href="https://bryansouza.pro"> bryansouza.pro </a>
+<p align="center"> My Website: <a href="https://www.bryansouza.pro"> bryansouza.pro </a>
 </p>
 
 <p align="center">
