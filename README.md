@@ -1,6 +1,7 @@
 <h2 align="center">Hey 👋😁, welcome to my profile!</h2>
 
-I'm currently focusing on getting a high score on the SAT. Besides, I'm a junior software developer with **2+ years of experience** and at the present I'm working from home 👨‍💻.
+<p align="center"> My Website: <a href="http://bryansouza.pro"> bryansouza.pro </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanpsouza/">
