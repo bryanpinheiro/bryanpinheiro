@@ -1,6 +1,6 @@
 <h1 align="center">WHAT'S UP EVERYBODY!</h1>
 
-<p align="center"><a href="bit.ly/44uHTHH">PORTFOLIO</a>
+<p align="center"><a href="https://bryanpinheiro.github.io/portfolio.github.io">PORTFOLIO</a>
 </p>
 
 <p align="center">
