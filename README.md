@@ -1,6 +1,6 @@
 <h1 align="center">CLICK THE LINK BELOW TO SEE MY PORTFOLIO</h1>
 
-<p align="center"><a href="https://bryanpinheiro.github.io/portfolio.github.io">PORTFOLIO</a>
+<p align="center"><a href="https://bryanpinheiro.github.io/">PORTFOLIO</a>
 </p>
 
 <p align="center">
